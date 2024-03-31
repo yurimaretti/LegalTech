@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StartupOne.Api.AspNet",
+    "\\StartupOne.Api.AspNet\\Controllers",
+    "\\StartupOne.Api.AspNet\\Models",
+    "\\StartupOne.Api.AspNet\\Repository",
+    "\\StartupOne.Api.AspNet\\Repository\\Context"
+  ],
+  "SelectedNode": "\\StartupOne.Api.AspNet.sln",
+  "PreviewInSolutionExplorer": false
+}

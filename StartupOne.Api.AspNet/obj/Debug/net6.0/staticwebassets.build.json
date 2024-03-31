@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7oJbSujy92mEghlEfZp6KDZwZVIra2zmWKdhOjkAnU0=",
+  "Source": "StartupOne.Api.AspNet",
+  "BasePath": "_content/StartupOne.Api.AspNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
